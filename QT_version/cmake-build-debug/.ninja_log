@@ -1,0 +1,12 @@
+# ninja log v6
+8	723	7422022576127834	PK_subway_autogen/timestamp	1f6039f9cb7c3db4
+8	723	7422022576127834	PK_subway_autogen/mocs_compilation.cpp	1f6039f9cb7c3db4
+8	723	7422022576127834	C:/Users/25190/Desktop/course/Data_Structure_Project/QT_version/cmake-build-debug/PK_subway_autogen/timestamp	1f6039f9cb7c3db4
+8	723	7422022576127834	C:/Users/25190/Desktop/course/Data_Structure_Project/QT_version/cmake-build-debug/PK_subway_autogen/mocs_compilation.cpp	1f6039f9cb7c3db4
+737	2252	7422022577002976	CMakeFiles/PK_subway.dir/main.cpp.obj	826de0e1e6a137b6
+749	2309	7422022577133718	CMakeFiles/PK_subway.dir/baseCodes.cpp.obj	2465cbb661efe8ca
+776	2373	7422022577403413	CMakeFiles/PK_subway.dir/results.cpp.obj	3ca845ca2503ab70
+724	2377	7422022576872979	CMakeFiles/PK_subway.dir/PK_subway_autogen/mocs_compilation.cpp.obj	dae98338abe0ae55
+790	2446	7422022577533021	CMakeFiles/PK_subway.dir/editLines.cpp.obj	8de17a3519d2bad9
+763	2568	7422022577272989	CMakeFiles/PK_subway.dir/mainMenu.cpp.obj	4f285dc4f01da422
+2569	3314	7422022595325763	PK_subway.exe	b6e2dc122546a6e8

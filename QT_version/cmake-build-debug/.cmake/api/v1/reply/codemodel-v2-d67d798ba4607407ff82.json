@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "PK_subway",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "PK_subway::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-PK_subway-Debug-45f1e566186288fcde46.json",
+					"name" : "PK_subway",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "PK_subway_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-PK_subway_autogen-Debug-5eb5d5b6c9fad44407ab.json",
+					"name" : "PK_subway_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "PK_subway_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-PK_subway_autogen_timestamp_deps-Debug-37325f308bea14ac58f0.json",
+					"name" : "PK_subway_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/25190/Desktop/course/Data_Structure_Project/QT_version/cmake-build-debug",
+		"source" : "C:/Users/25190/Desktop/course/Data_Structure_Project/QT_version"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

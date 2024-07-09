@@ -1,0 +1,5 @@
+C:/Users/25190/Desktop/course/Data_Structure_Project/QT_version/cmake-build-debug/CMakeFiles/PK_subway.dir
+C:/Users/25190/Desktop/course/Data_Structure_Project/QT_version/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/25190/Desktop/course/Data_Structure_Project/QT_version/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/25190/Desktop/course/Data_Structure_Project/QT_version/cmake-build-debug/CMakeFiles/PK_subway_autogen_timestamp_deps.dir
+C:/Users/25190/Desktop/course/Data_Structure_Project/QT_version/cmake-build-debug/CMakeFiles/PK_subway_autogen.dir
